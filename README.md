@@ -24,14 +24,10 @@ The goals for this repository are:
 3. To provide the notice of NTUST
 
 ## Install
-This project use [Django](https://www.djangoproject.com/) and [requests](https://requests.readthedocs.io/en/master/). Go check them out if you don't have them locally installed.
-
-```powershell
-python manage.py runserver
-```
+To establish this Line bot service, pleass refer [Intall](./Install.md).
 
 ## Usage
-This is only a Line bot package, You can use this bot directly.
+Please refer [Usage](./Usage.md). 
 
 ## Maintainer
 @Aiden_Lai
