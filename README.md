@@ -15,8 +15,8 @@ This repository contains:
 - [Maintainer](#maintainer)
 
 ## Background
-Because of the Course Searching system provided by NTUST does not have the quota inquire funtion,</br>
-So we devolope this Line bot to provide a platform that can inquire the course quota.
+Because of the Course Searching system provided by NTUST does not have the quota inquire function,</br>
+So we devoloped this Line bot to provide a platform that can inquire the course quota.
 
 The goals for this repository are:
 1. To provide the NTUST student have a convient way to check the quota fo course.
@@ -24,10 +24,10 @@ The goals for this repository are:
 3. To provide the notice of NTUST
 
 ## Install
-To establish this Line bot service, pleass refer [Intall](./Install.md).
+To establish this Line bot service, please refer [Intall](./MarkDown_Guide/Install.md).
 
 ## Usage
-Please refer [Usage](./Usage.md). 
+Please refer [Usage](./MarkDown_Guide/Usage.md). 
 
 ## Maintainer
 @Aiden_Lai

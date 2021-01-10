@@ -51,7 +51,7 @@ def get_ntust_general_courses():
         'OnleyNTUST': 1,
         'OnlyGeneral': 1,
         'OnlyMaster': 0,
-        'Semester': "1091",
+        'Semester': "1092",
     }
     return search_courses(payload)
 
@@ -74,7 +74,7 @@ def get_ntu_system_courses():
         'OnlyMaster': 0,
         'OnlyNode': 0,
         'OnlyUnderGraduate': 0,
-        'Semester': "1091",
+        'Semester': "1092",
     }
     return search_courses(payload)
 
